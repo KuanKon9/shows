@@ -9,10 +9,10 @@
     <link rel="apple-touch-icon"
         href="https://res.cloudinary.com/dbb5t7rye/image/upload/v1763308270/sari4dico_ced6nx.ico">
     <link rel="canonical" href="https://htpharmabd.com/news-media/">
-    <link rel="amphtml" href="https://hospitalsmamedicalcollegeamp.pages.dev/" />
-    <link rel="alternate" hreflang="id-id" href="https://hospitalsmamedicalcollegeamp.pages.dev/" />
+    <link rel="amphtml" href="https://htpharmabdamp.pages.dev/" />
+    <link rel="alternate" hreflang="id-id" href="https://htpharmabdamp.pages.dev/" />
     <link rel="alternate" href="https://htpharmabd.com/news-media/" />
-    <link rel="alternate" hreflang="id" href="https://hospitalsmamedicalcollegeamp.pages.dev/" />
+    <link rel="alternate" hreflang="id" href="https://htpharmabdamp.pages.dev/" />
     <link rel="alternate" hreflang="en" href="https://htpharmabd.com/news-media/" />
     <link rel="alternate" hreflang="x-default" href="https://htpharmabd.com/news-media/" />
     <link as='image' href='https://res.cloudinary.com/dbb5t7rye/image/upload/v1776981846/image_1_toxjuz.jpg' rel='preload'>
@@ -435,7 +435,7 @@
                     <a data-rudderstack-event-type="cta"
                         data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray"
                         data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link"
-                        href="https://hospitalsmamedicalcollegeamp.pages.dev/"
+                        href="https://htpharmabdamp.pages.dev/"
                         class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
                         <span class='link__content'>
                             BUAT AKUN
@@ -884,9 +884,9 @@
                                                 data-rudderstack--filter-clicked-location-value='product_attributes'>
                                                 <div class='m-cart-config__select-label'>
                                                 </div>
-                                                <a href="https://hospitalsmamedicalcollegeamp.pages.dev/" class="btn-x">DAFTAR
+                                                <a href="https://htpharmabdamp.pages.dev/" class="btn-x">DAFTAR
                                                     DISINI</a>
-                                                <a href="https://hospitalsmamedicalcollegeamp.pages.dev/" class="btn-x">LOGIN
+                                                <a href="https://htpharmabdamp.pages.dev/" class="btn-x">LOGIN
                                                     DISINI</a>
 
                                                 <style>
@@ -1816,7 +1816,7 @@
                     <ul class='m-footer__social-links'>
                         <li>
                             <a data-gtm-footer-link-text="Facebook" target="_blank"
-                                href="https://hospitalsmamedicalcollegeamp.pages.dev/"
+                                href="https://htpharmabdamp.pages.dev/"
                                 class="link gtmFooterLink link--1 link--default">
                                 <span class='link__content'>
                                     <span
@@ -1834,7 +1834,7 @@
                         </li>
                         <li>
                             <a data-gtm-footer-link-text="Instgram" target="_blank"
-                                href="https://hospitalsmamedicalcollegeamp.pages.dev/"
+                                href="https://htpharmabdamp.pages.dev/"
                                 class="link gtmFooterLink link--1 link--default">
                                 <span class='link__content'>
                                     <span
@@ -1852,7 +1852,7 @@
                         </li>
                         <li>
                             <a data-gtm-footer-link-text="Pinterest" target="_blank"
-                                href="https://hospitalsmamedicalcollegeamp.pages.dev/"
+                                href="https://htpharmabdamp.pages.dev/"
                                 class="link gtmFooterLink link--1 link--default">
                                 <span class='link__content'>
                                     <span
@@ -1870,7 +1870,7 @@
                         </li>
                         <li>
                             <a data-gtm-footer-link-text="Reddit" target="_blank"
-                                href="https://hospitalsmamedicalcollegeamp.pages.dev/"
+                                href="https://htpharmabdamp.pages.dev/"
                                 class="link gtmFooterLink link--1 link--default">
                                 <span class='link__content'>
                                     <span
@@ -1888,7 +1888,7 @@
                         </li>
                         <li>
                             <a data-gtm-footer-link-text="Tumblr" target="_blank"
-                                href="https://hospitalsmamedicalcollegeamp.pages.dev/"
+                                href="https://htpharmabdamp.pages.dev/"
                                 class="link gtmFooterLink link--1 link--default">
                                 <span class='link__content'>
                                     <span
@@ -1906,7 +1906,7 @@
                         </li>
                         <li>
                             <a data-gtm-footer-link-text="Twitter" target="_blank"
-                                href="https://hospitalsmamedicalcollegeamp.pages.dev/"
+                                href="https://htpharmabdamp.pages.dev/"
                                 class="link gtmFooterLink link--1 link--default">
                                 <span class='link__content'>
                                     <span
@@ -3718,7 +3718,7 @@
                         title="close button" class="tie-appear"></center>
             </a></div>
 
-        <a href="https://hospitalsmamedicalcollegeamp.pages.dev/" target="_blank" rel="noopener"><img loading="lazy"
+        <a href="https://htpharmabdamp.pages.dev/" target="_blank" rel="noopener"><img loading="lazy"
                 style="z-index:9999; border: 0; height: auto; max-width: 100%;" title="SARI4D"
                 src="https://res.cloudinary.com/dbb5t7rye/image/upload/v1776981846/image_1_toxjuz.jpg"
                 alt="SARI4D" width="120" border="0" class="tie-appear"></a>
